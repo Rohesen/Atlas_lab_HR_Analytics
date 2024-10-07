@@ -13,8 +13,12 @@ Overcame challenges with complex dataset structures using custom DAX measures.
 Explored age distribution among employees, revealing that most fall within the 20-29 age group.
 Analyzed salary data, highlighting that the average salary for white employees is higher than that of other ethnic groups.
 
+![Demographics Dashboard](https://github.com/Rohesen/Atlas_lab_HR_Analytics/blob/main/Screenshot%202024-10-07%20222025.png)
+
 **Performance Tracker Dashboard:**
 Evaluated employee satisfaction levels across various metrics (job satisfaction, environment satisfaction, work-life balance, relationships) using self and manager ratings.
+
+![Performance Tracker Dashboard](https://github.com/Rohesen/Atlas_lab_HR_Analytics/blob/main/Screenshot%202024-10-07%20222042.png)
 
 **Attrition Dashboard:**
 Investigated employee attrition rates by various factors, including:
@@ -23,6 +27,8 @@ Investigated employee attrition rates by various factors, including:
 % Attrition Rate by Travel Frequency
 % Attrition Rate by Overtime Requirement
 % Attrition Rate by Tenure
+
+![Attrition Dashboard](https://github.com/Rohesen/Atlas_lab_HR_Analytics/blob/main/Screenshot%202024-10-07%20222100.png)
 
 **Key Findings:**
 High attrition rates observed in Sales and HR departments.
