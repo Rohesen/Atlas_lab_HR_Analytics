@@ -39,4 +39,4 @@ Investigated employee attrition rates by various factors, including:
 **Impact:**
 This project significantly improved my Power BI skills and demonstrated how data-driven insights can inform and enhance HR strategies.
 
-For Live Dashboard Link - [Click Here][https://app.powerbi.com/view?r=eyJrIjoiMzhlOWVlMzMtODJkZC00ZjE3LWI1OGQtOTY1YWMzZTMyMzM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
+For Live Dashboard Link-  [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMzhlOWVlMzMtODJkZC00ZjE3LWI1OGQtOTY1YWMzZTMyMzM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
