@@ -22,19 +22,21 @@ Evaluated employee satisfaction levels across various metrics (job satisfaction,
 
 **Attrition Dashboard:**
 Investigated employee attrition rates by various factors, including:
--% Attrition Rate by Department
--% Attrition Rate by Hire Date
--% Attrition Rate by Travel Frequency
--% Attrition Rate by Overtime Requirement
--% Attrition Rate by Tenure
+- % Attrition Rate by Department
+- % Attrition Rate by Hire Date
+- % Attrition Rate by Travel Frequency
+- % Attrition Rate by Overtime Requirement
+- % Attrition Rate by Tenure
 
 ![Attrition Dashboard](https://github.com/Rohesen/Atlas_lab_HR_Analytics/blob/main/Attrition_Page.png)
 
 **Key Findings:**
--High attrition rates observed in Sales and HR departments.
--Frequent travelers have a higher likelihood of leaving.
--High overtime requirements are associated with increased attrition rates.
--Longer tenure correlates with lower attrition rates.
+- High attrition rates observed in Sales and HR departments.
+- Frequent travelers have a higher likelihood of leaving.
+- High overtime requirements are associated with increased attrition rates.
+- Longer tenure correlates with lower attrition rates.
 
 **Impact:**
 This project significantly improved my Power BI skills and demonstrated how data-driven insights can inform and enhance HR strategies.
+
+For Live Dashboard Link - [Click Here][https://app.powerbi.com/view?r=eyJrIjoiMzhlOWVlMzMtODJkZC00ZjE3LWI1OGQtOTY1YWMzZTMyMzM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
