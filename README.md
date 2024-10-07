@@ -7,18 +7,18 @@ This project involves using Power BI to create interactive dashboards that monit
 Analyzed total number of employees, active vs. inactive counts, hiring trends over the years, and active employees by department and job role.
 Overcame challenges with complex dataset structures using custom DAX measures.
 
-![Overview Dashboard](https://github.com/Rohesen/Atlas_lab_HR_Analytics/blob/main/Screenshot%202024-10-07%20212652.png)
+![Overview Dashboard](https://github.com/Rohesen/Atlas_lab_HR_Analytics/blob/main/Overview_Page.png)
 
 **Demographics Dashboard:**
 Explored age distribution among employees, revealing that most fall within the 20-29 age group.
 Analyzed salary data, highlighting that the average salary for white employees is higher than that of other ethnic groups.
 
-![Demographics Dashboard](https://github.com/Rohesen/Atlas_lab_HR_Analytics/blob/main/Screenshot%202024-10-07%20222025.png)
+![Demographics Dashboard](https://github.com/Rohesen/Atlas_lab_HR_Analytics/blob/main/Demographics_Page.png)
 
 **Performance Tracker Dashboard:**
 Evaluated employee satisfaction levels across various metrics (job satisfaction, environment satisfaction, work-life balance, relationships) using self and manager ratings.
 
-![Performance Tracker Dashboard](https://github.com/Rohesen/Atlas_lab_HR_Analytics/blob/main/Screenshot%202024-10-07%20222042.png)
+![Performance Tracker Dashboard](https://github.com/Rohesen/Atlas_lab_HR_Analytics/blob/main/Performance_Tracker_Page.png)
 
 **Attrition Dashboard:**
 Investigated employee attrition rates by various factors, including:
@@ -28,7 +28,7 @@ Investigated employee attrition rates by various factors, including:
 % Attrition Rate by Overtime Requirement
 % Attrition Rate by Tenure
 
-![Attrition Dashboard](https://github.com/Rohesen/Atlas_lab_HR_Analytics/blob/main/Screenshot%202024-10-07%20222100.png)
+![Attrition Dashboard](https://github.com/Rohesen/Atlas_lab_HR_Analytics/blob/main/Attrition_Page.png)
 
 **Key Findings:**
 High attrition rates observed in Sales and HR departments.
